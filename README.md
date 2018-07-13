@@ -1,16 +1,16 @@
-# vue-patterns
+# Паттерны Vue
 
-> This is a fork of https://github.com/learn-vuejs/vue-patterns
+> Это форк репозитория https://github.com/learn-vuejs/vue-patterns
 
-> Useful Vue patterns, techniques, tips and tricks and helpful curated links.
+> Полезные паттерны техники, советы и рекомендации и тщательно отобранный список ссылок по Vue.
 
-## Translations
+## Переводы
 
 * [简体中文](https://github.com/ZYSzys/vue-patterns-cn)
 * [繁體中文](https://github.com/yoyoys/vue-patterns-cht)
 
 
-## Table of Contents
+## Содержание
 
 - [Component Declaration](#component-declaration)
   - [Single File Component (a.k.a. SFC) - Most Common](#single-file-component-aka-sfc---most-common)
