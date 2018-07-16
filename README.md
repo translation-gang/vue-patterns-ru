@@ -1,16 +1,16 @@
-# vue-patterns
+# Паттерны Vue
 
-> This is a fork of https://github.com/learn-vuejs/vue-patterns
+> Это форк репозитория https://github.com/learn-vuejs/vue-patterns
 
-> Useful Vue patterns, techniques, tips and tricks and helpful curated links.
+> Полезные паттерны техники, советы и рекомендации и тщательно отобранный список ссылок по Vue.
 
-## Translations
+## Переводы
 
 * [简体中文](https://github.com/ZYSzys/vue-patterns-cn)
 * [繁體中文](https://github.com/yoyoys/vue-patterns-cht)
 
 
-## Table of Contents
+## Содержание
 
 - [Component Declaration](#component-declaration)
   - [Single File Component (a.k.a. SFC) - Most Common](#single-file-component-aka-sfc---most-common)
@@ -1066,6 +1066,7 @@ watch: {
 * [Should I Store This Data in Vuex?](https://markus.oberlehner.net/blog/should-i-store-this-data-in-vuex/)
 * [Anyway, this is how to use v-model with Vuex. Computed setter in action.](https://itnext.io/anyway-this-is-how-to-use-v-model-with-vuex-computed-setter-in-action-320eb682c976)
 * [Vuex getters are great, but don’t overuse them](https://codeburst.io/vuex-getters-are-great-but-dont-overuse-them-9c946689b414)
+* [5 Vuex Plugins For Your Next VueJS Project](https://medium.com/js-dojo/5-vuex-plugins-for-your-next-vuejs-project-df9902a70de2)
 
 ### Mobx
 
@@ -1175,6 +1176,7 @@ watch: {
 * [Control DOM Outside Your Vue.js App with portal-vue](https://alligator.io/vuejs/portal-vue/)
 * [Add i18n and manage translations of a Vue.js powered website](https://medium.com/hypefactors/add-i18n-and-manage-translations-of-a-vue-js-powered-website-73b4511ca69c)
 * [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
+* [Vue.js — Forms, components and considerations](https://blog.webf.zone/vue-js-forms-components-and-considerations-d81b3ffe9efb)
 
 ## Fullstack Vue Book
 
